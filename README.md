@@ -1,6 +1,7 @@
 # Best Password Crackers 
 
-Hope this helps atleast one person
+This repository does not contain code
+Hope this helps
 
 ## Acknowledgments
 
